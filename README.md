@@ -1,5 +1,4 @@
-# IPC_Serial
-基于IPC的串口通讯程序
+# 基于分层架构的中间件通讯程序
 
 ## Build
 ### GDBUS版本
